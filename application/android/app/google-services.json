@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "986286799458",
+    "project_id": "turf-f08cd",
+    "storage_bucket": "turf-f08cd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:986286799458:android:ead60e8a0ba64288596f3b",
+        "android_client_info": {
+          "package_name": "com.example.application"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoyyZ3c4QokpmPXN_w1kFG3OprHlQbR_0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
